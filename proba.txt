@@ -1,3 +1,4 @@
 Gondolt szám 10-nél nagyobb-e?
 Igen, de 100-nál kisebb
 Gondolt szám 60-nál nagyobb-e?
+Igen, de 70-nél kisebb.
