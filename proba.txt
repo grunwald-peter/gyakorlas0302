@@ -1,1 +1,2 @@
 Gondolt szám 10-nél nagyobb-e?
+Igen, de 100-nál kisebb
